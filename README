@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2908
+
+Improve your editing efficiency when in ex-mode.
+
+This plugin provides a collection of functions and mappings to help you increase your productivity on the command-line. Functions include:
+- Reverse search your ex history using regular expressions,
+- Zap to any previously typed character,
+- Capture all ex output in a *Messages* buffer for processing, just like in Emacs,
+- and more.
