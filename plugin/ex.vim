@@ -14,7 +14,7 @@
 " Last Modified: Wed Dec 30 20:12:56 CST 2009
 
 " It might work for versions less than this, but I haven't tried it.
-if v:version < 720
+if v:version < 700
 	finish
 endif
 
